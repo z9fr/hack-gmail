@@ -8,7 +8,7 @@ this is a python script for hacking Gmail account using Brute-force attack.
 
 #instalation.
 
-$ git clone https://github.com/d4az/hack-gmail
+$ git clone https://github.com/d4az/hack-gmail.git
 
 #Runing the script.
 
