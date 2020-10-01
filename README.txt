@@ -1,5 +1,5 @@
 
-hack-gmail
+HACK GMAIL ACCOUNT
 -----------------------------------------------------------------------------------------------------------------------
 
 this is a python script for hacking Gmail account using Brute-force attack.
