@@ -7,7 +7,7 @@ def artwork():
     print("#                     \||/                               #")
     print("#                     |  @___oo                          #")
     print("#           /\  /\   / (__,,,,|                          #")
-    print("#          ) /^\) ^\/ _)                GmailHack!       #")
+    print("#          ) /^\) ^\/ _)                Gmail-Hack!      #")
     print("#          )   /^\/   _)                CoDeD By:        #")
     print("#          )   _ /  / _)                         d4az    #")
     print("#      /\  )/\/ ||  | )_)                                #")
