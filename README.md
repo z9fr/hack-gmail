@@ -13,6 +13,8 @@ this is a python script for hacking Gmail account using Brute-force attack.
 
     $ cd hack-gmail
     $ python3 hack-gmail.py
+    
+![screenshot](https://github.com/d4az/hack-gmail/blob/master/Screenshot_2020-09-09_00-12-50.png)
          
 
 # You need to have python 3 pre-install.
