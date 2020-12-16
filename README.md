@@ -16,13 +16,7 @@ this is a python script for hacking Gmail account using Brute-force attack.
          
 
 # You need to have python 3 pre-install.
+To check your python version, go terminal and search.
 
-###To check your python version, go terminal and search.
-
-    $./hack-gmail.sh --gmail
+    $python3 --version
         
-
-- Here is a screenshot of the script :
-
-![screenshot](https://github.com/d4az/gmail-hack/blob/main/demo.png)
-
