@@ -31,7 +31,7 @@ If you have Ubuntu 16.10 or newer you can easily install python3 using the follo
     $ sudo apt-get install python3.6
          
 If you are using other Linux distribution, Most probably have Python 3 pre-installed as well. If not, use your
-distribution’s package manager. 
+distribution’s package manager. or just read python installing guide.  
 
 
     $ sudo dnf install python3
