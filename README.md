@@ -47,5 +47,4 @@ distribution’s package manager. or just read python installing guide.
 
 
    
-        
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=d4az&repo=hack-gmail)](https://github.com/d4az/github-readme-stats)
+
