@@ -17,13 +17,13 @@ This is a Python3 Script for hacking Gmail account using Dictionary Attack Metho
 ![screenshot](https://github.com/d4az/hack-gmail/blob/master/demo/demo3.png)
          
 
-# You need to have python 3 pre-install.
+# You need to have python 3 pre-installed
 To check your python version, go terminal and search.
 
     $ python3 --version
     
 
-# In case You Don't Have Python Pre-Istalled
+# In case You Don't Have Python Pre-installed
 
 If you have Ubuntu 16.10 or newer you can easily install python3 using the following commands. 
 
