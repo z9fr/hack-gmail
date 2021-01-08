@@ -39,7 +39,7 @@ distribution’s package manager. or just read python installing guide.
 
 # Recommendations
 
-• I recommend using Linux distro. (ubuntu,kali,Fedora,Arch Linux or etc).
+• I recommend using Linux distro. (ubuntu,kali,Fedora,Arch,manjaro or etc).
 
 • I usually recommend you using your own wordlist for Brute-force attract that you customized for the target.
   but always u can use the inbuild password list. feel free to use that list in any type attack. (pwdlist: rockyou.txt) 
