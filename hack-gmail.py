@@ -9,7 +9,7 @@ def artwork():
     print("#           /\  /\   / (__,,,,|                          #")
     print("#          ) /^\) ^\/ _)                Gmail-hack!      #")
     print("#          )   /^\/   _)                CoDeD By:        #")
-    print("#          )   _ /  / _)                         d4az    #")
+    print("#          )   _ /  / _)                        d4az     #")
     print("#      /\  )/\/ ||  | )_)                                #")
     print("#     <  >      |(,,) )__)                               #")
     print("#      ||      /    \)___)\                              #")
