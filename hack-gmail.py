@@ -24,7 +24,7 @@ smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
 smtpserver.ehlo()
 smtpserver.starttls()
 
-user = input("Enter The Target Gmail Adress : ")
+# user = input("Enter The Target Gmail Adress => ")
 
 print("\n")
 
