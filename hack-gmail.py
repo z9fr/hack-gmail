@@ -42,7 +42,6 @@ else:
     print("\n")
     print("Invalid input!")
     sys.exit(1)
-
 try:
     passswfile = open(passswfile, "r")
 
