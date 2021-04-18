@@ -19,6 +19,7 @@ def artwork():
     print("#                                                        #")
     print("##########################################################")
     print("\n")
+    
 artwork()
 
 smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
