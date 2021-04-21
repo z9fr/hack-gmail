@@ -1,7 +1,7 @@
 # Gmail Dictionary Attack
 
 This is a Python3 Script for hacking Gmail account using Dictionary Attack Methord.
-(script is written by using python3)
+(script is written by using python 3 )
 
 
 # Installation
