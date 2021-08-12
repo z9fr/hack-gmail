@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Gmail Dictionary Attack
 
-You can use the [editor on GitHub](https://github.com/dasithsv/hack-gmail/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a Python3 Script for hacking Gmail account using Dictionary Attack Methord.
+(script is written by using python 3 )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    $ git clone https://github.com/d4az/hack-gmail.git
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# How to Run the Script ? 
 
-- Bulleted
-- List
+    $ cd hack-gmail
+    $ python3 hack-gmail.py
+    
+![screenshot](https://github.com/d4az/hack-gmail/blob/master/demo/demo3.png)
+         
 
-1. Numbered
-2. List
+# You need to have python 3 pre-installed
+To check your python version, go terminal and search.
 
-**Bold** and _Italic_ and `Code` text
+    $ python3 --version
+    
 
-[Link](url) and ![Image](src)
-```
+# In case You Don't Have Python Pre-installed
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you have Ubuntu 16.10 or newer you can easily install python3 using the following commands. 
 
-### Jekyll Themes
+    $ sudo apt-get update
+    $ sudo apt-get install python3
+         
+If you are using other Linux distribution, Most probably have Python 3 pre-installed as well. If not, use your
+distribution’s package manager. or just read python installing guide.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dasithsv/hack-gmail/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+    $ sudo dnf install python3
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# Recommendations
+
+• I recommend using Linux distro. (ubuntu,kali,Fedora,Arch,manjaro or etc).
+
+• I usually recommend you using your own wordlist for Brute-force attract that you customized for the target.
+  but always u can use the inbuild password list. feel free to use that list in any type attack. (pwdlist: rockyou.txt) 
+  hope this script will help you. Good luck! 
+
+
+   
+
